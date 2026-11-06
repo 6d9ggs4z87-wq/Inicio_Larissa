@@ -5,5 +5,5 @@ let profundidade = 24
 
 let area = (frente * profundidade)
 
-console.log ("O valor da área é:" + area + "Metros")
-
+console.log ("A area do terreno é:" + area + "m²")
+//Final do programa

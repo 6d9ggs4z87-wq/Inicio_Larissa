@@ -8,4 +8,4 @@ let novoValor = preco * valDesconto
 
 console.log("O preço final é:" + novoValor.toFixed(2))
 
-//Final do programa r
+//Final do programa 
